@@ -14,7 +14,7 @@ rm -rf SmsBombing
 
  pip install -r bomb.txt
 
- python sms-bomb.py
+ python BOMB.py
 
  # Warning 
  
