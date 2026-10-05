@@ -1,7 +1,7 @@
 #_____________________| INFO  |___________________#
 # TEAM : TASHFIQ ONBIR 
 # PYTHON VERSION : 3.11
-# GITHUB : https://github.com/BLACK-ZER-0
+# GITHUB : https://github.com/tashfiqonbir
 # Time : 2026-10-05 22:45:16
 # Month: October 
 # Year : 2026
