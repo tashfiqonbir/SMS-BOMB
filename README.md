@@ -3,11 +3,17 @@
 Free and Unlimited best SMS BOMBER Tools
 
 # INSTALLATION ⬇️
+
 rm -rf SmsBombing
+
  git clone https://github.com/tashfiqonbir/SMS-BOMB
+
  cd SMS-BOMB
+
  chmod +x *
+
  pip install -r bomb.txt
+
  python sms-bomb.py
 
  # Warning 
